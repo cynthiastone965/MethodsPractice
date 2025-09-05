@@ -42,13 +42,18 @@ namespace MethodsPractice
 
         }
 
+        private void q1Output_Click(object sender, EventArgs e)
+        {
+
+        }
+
         /// 3. Create a method to get numbers from q3Num1Input and q3Num2Input,
         /// add them together, and then display output as follows:
         /// 
         /// 5 + 4 = 9 
 
 
-        
+
         /// 4. Create a method to calculate the area of a circle based on  
         /// the radius entered in radiusInput, then display output as follows:
         /// 
